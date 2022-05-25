@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PORUBIN-JavaInternshipStefanini" target="8" />
+      <module name="PORUBIN-JavaInternshipStefanini" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -22,12 +22,7 @@ public class UserList {
         int size = this.users.size();
         List<User> updateUser = new ArrayList<>(size +1);
         updateUser.add(user);
-        for (int i =0; i< size; i++){
-         //   updateUser.get(i)=users.get(i);
-        }
-      //  updateUser.get(size)=user;
 
-        this.users = updateUser;
     }
 
 
